@@ -24,7 +24,7 @@ Merge `PlatesView::configuration` into your `configuration.php`.
 ```php
 $configuration += \Lit\View\Plates\PlatesView::configuration([
     __DIR__ . '/templates',
-]));
+]);
 ```
 
 + integration in action class
