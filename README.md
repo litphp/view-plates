@@ -43,7 +43,7 @@ class HomeAction extends BaseAction
 {
     protected function main(): ResponseInterface
     {
-        return $this->plates('index.php')->render(['name' => '<plates>']);
+        return $this->plates('index')->render(['name' => '<plates>']);
     }
 ```
 
