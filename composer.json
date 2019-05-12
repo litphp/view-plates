@@ -15,8 +15,8 @@
     },
     "require": {
         "league/plates": "^3.3.0",
-        "litphp/air": "^0.9@dev",
-        "litphp/voltage": "^0.9@dev"
+        "litphp/air": "^0.9",
+        "litphp/voltage": "^0.9"
     },
     "prefer-stable": true,
     "minimum-stability": "dev",
